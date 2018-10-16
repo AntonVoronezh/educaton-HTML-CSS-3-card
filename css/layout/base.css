@@ -12,12 +12,12 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-family: 'TitilliumWeb', sans-serif;
-    background: rgb(246, 246, 246);
+    background:#f5f5f5  url('/img/body-bg.jpg') top repeat-x;
 }
 
 .wrapper {
     min-width: 1000px;
-    overflow: hidden;
+    /* overflow: hidden; */
     display: flex;
     flex-direction: column;
     height: 100%;
