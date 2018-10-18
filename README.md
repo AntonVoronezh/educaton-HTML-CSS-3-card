@@ -1,2 +1,2 @@
-# site-card-from-WebForMySelf.com-course-HTML5-CSS3
-basics html site from WebForMySelf.com course HTML5 &amp; CSS3
+# educaton-HTML-CSS-3-card
+practical HTML5 & CSS3 from WebForMySelf.com (card)
